@@ -1,7 +1,6 @@
-# Wrangle-OpenStreetMap-Data
-Project - 04 , Udacity Data Analyst Nanodegree
 # OpenStreetMap Data Wrangling with MongoDB
 ## Data Wrangling Project
+Project - 04 , Udacity Data Analyst Nanodegree
 
 by, Rahul Patra.
 7th June, 2017. (Revision 2)
